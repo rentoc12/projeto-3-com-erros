@@ -1,0 +1,39 @@
+body {
+    font-family: "Anton", sans-serif;
+    font-size: 20px
+}
+
+.image{
+    width: 1920px;
+    height: 760px;
+}
+
+
+.navbar {
+    background-color: rgb(66, 66, 138);
+}
+
+.nav .nav-link.active {
+    background-color: rgb(73, 110, 62);
+    color: #ffffff;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover{
+    color: #ffffff;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.navbar-toggler{
+    background-color: aliceblue;
+}
+
+#sobre-a-loja {
+    background-color:lightcyan
+}
+
